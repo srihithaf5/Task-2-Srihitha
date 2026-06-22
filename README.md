@@ -218,10 +218,5 @@ Response:
 * HTTP Status Codes
 
 ---
+<img width="1871" height="952" alt="image" src="https://github.com/user-attachments/assets/c24d01d4-71f3-4e7f-ba38-9e7c2ad39bc7" />
 
-## Author
-
-Srihitha Pattem
-
-DecodeLabs Industrial Training Program – 2026
-Project 2: Backend API Development
